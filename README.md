@@ -21,6 +21,10 @@ Repository of [Network title "Social Network"](https://github.com/fpmi-hci-2023/
 
 This is demo project.
 
+# Reports
+
+Please, visit 'reports/' folder to find links on reports.
+
 # Contributting
 
 Author:Qian Qiyue
